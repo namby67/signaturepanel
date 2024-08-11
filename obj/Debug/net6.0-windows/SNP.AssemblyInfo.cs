@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SNP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9eb478b70f8d687ea730acd04cbb0dddab0d3624")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b263a86aa8d0aee0d901f2b843d1ddf4aa51bb1")]
 [assembly: System.Reflection.AssemblyProductAttribute("SNP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SNP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

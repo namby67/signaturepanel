@@ -155,6 +155,8 @@ namespace SNP
         private void napSNP2_Click(object sender, EventArgs e)
         {
             pdfSNP_Click(sender, e);
+
+
         }
     }
 }
